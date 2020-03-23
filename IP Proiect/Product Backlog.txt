@@ -1,0 +1,33 @@
+                                                     Social Media
+						Modulul : Singlel-Page Web
+
+
+
+
+	Modulul Single-Page Application va implementa aplicatia Web pe care Clientul(userul final) prin intermediul interfetei de utilizator o va rula intr-un browser Web si va primi 
+dinamic urmatoarele informatii: Rapoarte,Statistici, Grafice, Comparatoare, etc. Acestea din urma vor lua drept date de intrare postari, like-uri, share-uri, numarul de comentarii si 
+utilizatorii aplicatiilor Social Media precum Facebook, Instagram, Twitter, Tumblr si Linkedin si ne va returna o statistica si un top al lor.
+
+Pentru fiecare postare vom urmari: reactii, share-uri, numarul de comentarii si impactul produs de aceasta, atat pt o singura persoana cat si la nivel categorie.
+Pentru fiecare user vom urmari: numele de utilizator, categoria, numarul de like-uri si share-uri.
+
+Datele de intrare:
+	-le vom obtine de la echipele : Echipa 3000 si Red Team (Social Media API)
+	- vor fi furnizate in format JSON
+
+Datele de iesire:
+	- vor fi create in momentul in care clientului le vizualizeaza pe Single-Page App 
+	-nu vor fi stocate (interogarea in Baza de date facandu-se in momentul cererii)
+
+Implementarea Single -Page App se va face cu JS, Angular.
+Pentru interogarea Bazei de date : Json 
+
+
+Inregistrare progres general.
+	-vom avea un formular de feedback pt a ne imbunatati serviciile x;
+	-in functie de dimensiunea client vom fi flexibili ;
+	-vom face update-uri zilnic;
+	-etc.
+
+
+Termen limita 8 saptamani;
